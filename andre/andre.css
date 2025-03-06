@@ -4,28 +4,6 @@
 
         @import url('https://fonts.googleapis.com/css2?family=Mate:ital@0;1&display=swap');
 
-        body {
-            background-color: #80FFA4;
-            font-family: "Quicksand", serif;
-        }
-
-        header {
-            background-color: #008024;
-            height: 200px;
-            margin: -21px;
-
-        }
-
-        .titulo {
-            text-align: center;
-            color: #AAFFC2;
-        }
-
-        .maestro {
-            text-align: center;
-            color: #AAFFC2;
-        }
-
-        p {
-            font-family: "Mate";
-        }
+    body {
+        background-color: #32B8B5;
+    }
