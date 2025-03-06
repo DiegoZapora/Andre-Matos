@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+        @import url('https://fonts.googleapis.com/css2?family=Mate:ital@0;1&display=swap');
+
+        body {
+            background-color: brown;
+            font-family: "Quicksand", serif;
+        }
+
+        header {
+            background-color: #008024;
+            height: 200px;
+            margin: -21px;
+
+        }
+
+        .titulo {
+            text-align: center;
+            color: #AAFFC2;
+        }
+
+        .maestro {
+            text-align: center;
+            color: #AAFFC2;
+        }
+
+        p {
+            font-family: "Mate";
+        }
